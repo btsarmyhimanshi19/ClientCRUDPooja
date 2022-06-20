@@ -68,7 +68,7 @@ const loadUserDetails = async()=>{
    */}
     <div>
     <Button onClick={()=>editserdetail()}>EDIT</Button>
-//     <Link to={`/`}><Button color="success"  className="float-right" >BACK</Button></Link>
+
     </div>
   </Form>
 </div>
